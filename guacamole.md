@@ -4,4 +4,6 @@
 +lime
 +lemone
 +salt
++pepper
++tomato
 ## Istructions
