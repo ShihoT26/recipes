@@ -2,8 +2,8 @@
 ## Ingredients
 +avocado
 +lime
-+lemone
++lemon
 +salt
 +pepper
 +tomato
-## Istructions
+## Instructions
